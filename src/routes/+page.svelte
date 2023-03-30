@@ -104,8 +104,7 @@
 			  <span class="block h-10 w-10 animate-ping rounded-full bg-red-600 duration-1000" />
 			</div>
 		  
-			<!-- svelte-ignore a11y-img-redundant-alt -->
-			<img src="src\assets\profile.jpg" alt="Photo of me above a map of my current location" class="z-20 h-12 w-12 rounded-full border-2 border-black" />
+			<img src="src\assets\profile.jpg" alt="me above a map of my current location" class="z-20 h-12 w-12 rounded-full border-2 border-black" />
 		  </div>
 	</div>
 </div>
