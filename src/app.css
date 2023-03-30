@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.clock {
+    font-family: 'Zen Dots';
+}
+
+.ampm {
+    font-family: cursive;
+}
+
+.bday {
+    font-family: 'Happy Monkey';
+}
