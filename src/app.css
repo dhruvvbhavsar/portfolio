@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -15,4 +16,14 @@
 
 .bday {
     font-family: 'Happy Monkey';
+}
+
+.diamond {
+    font-family: Outfit;
+}
+
+svg {
+    height: 24px;
+    width: 24px;
+    fill: white;
 }
