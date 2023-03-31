@@ -27,3 +27,7 @@ svg {
     width: 24px;
     fill: white;
 }
+
+.map {
+    background-image: url('./lib/assets/map.png');
+}

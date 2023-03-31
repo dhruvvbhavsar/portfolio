@@ -112,7 +112,7 @@
 			</a>
 		</div>
 		<div
-			class="col-span-3 flex flex-col justify-center items-center bg-cover bg-center h-52 bg-[url('src/lib/assets/map.png')] rounded-2xl"
+			class="col-span-3 flex flex-col justify-center items-center bg-cover bg-center h-52 map rounded-2xl"
 		>
 			<div aria-hidden class="absolute">
 				<span class="block mb-10 h-10 w-10 animate-ping rounded-full bg-red-600 duration-1000" />
