@@ -10,11 +10,13 @@
     font-family: 'Zen Dots';
 }
 
-.ampm, .intro {
+.ampm {
     font-family: cursive;
 }
 
-.bday {
+
+
+.bday, .intro {
     font-family: 'Happy Monkey';
 }
 

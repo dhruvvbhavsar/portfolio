@@ -149,7 +149,7 @@
 		</div>
 		</div>
 		<div class="col-span-6 h-72 rounded-2xl bg-green-400 p-3 text-sm sm:text-lg sm:col-span-4 flex flex-col items-center justify-evenly intro">
-			<p class="font-mono text-2xl sm:text-3xl text-stone-950">More than meets the 🌟</p>
+			<p class="font-mono text-2xl sm:text-3xl text-stone-950">More than meets the eye</p>
 			<p class="font-medium">Hey there, I'm Dhruv! 🤖 As a Front End Engineer from India, I've been coding since I was a little kid 🔍 trying to unlock cheat codes on GTA San Andreas 🎮 and save Princess Peach 🍑 in Mario.</p>
 			<p class="font-medium">When I'm not 🖥️ programming, you can catch me watching 🍿 movies, jamming to 🎶 music, or getting lost in a good novel 📚. And if you want to chat, let's meet up..I'll be waiting for you on the beach🏖️</p>
 		  </div>
