@@ -10,7 +10,7 @@
     font-family: 'Zen Dots';
 }
 
-.ampm {
+.ampm, .intro {
     font-family: cursive;
 }
 
@@ -23,8 +23,8 @@
 }
 
 svg {
-    height: 24px;
-    width: 24px;
+    height: 26px;
+    width: 26px;
     fill: white;
 }
 
