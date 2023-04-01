@@ -16,7 +16,7 @@
 
 
 
-.bday, .intro {
+.bday {
     font-family: 'Happy Monkey';
 }
 
@@ -25,11 +25,27 @@
 }
 
 svg {
-    height: 26px;
-    width: 26px;
+    height: 24px;
+    width: 24px;
     fill: white;
 }
 
 .map {
     background-image: url('./lib/assets/map.png');
+}
+
+.intro {
+    background-image: url('https://media4.giphy.com/media/94P1LEMyuVEeA/giphy.webp?cid=ecf05e47dr4tsrrtyzyzgu8hql2a6asr0e2fypxnhv1ijm0u&rid=giphy.webp&ct=g');
+}
+
+.mgs {
+    background-image: url('https://imageio.forbes.com/specials-images/imageserve/62a0f58bf97f8613a5ccd11a/0x0.jpg?format=jpg&width=1200');
+}
+
+.bgg {
+    background-image: url('https://wallpaperaccess.com/full/102651.jpg');
+}
+
+.time {
+    background-image: url('https://wallpaperaccess.com/full/3764936.jpg');
 }
