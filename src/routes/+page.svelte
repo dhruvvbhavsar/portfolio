@@ -69,7 +69,7 @@
 			</a>
 		</div>
 		<div
-			class="md:col-span-4 col-span-6 h-52 rounded-2xl bg-[url('https://pbs.twimg.com/media/FsAzk6CX0AE0-F8?format=jpg&name=medium')] bg-cover bg-center transition duration-300 ease-in-out hover:scale-95"
+			class="md:col-span-4 col-span-6 h-52 rounded-2xl bg-[url('https://www.howtogeek.com/wp-content/uploads/2023/03/Robot-painter.jpg?height=200p&trim=2,2,2,2')] bg-cover bg-center transition duration-300 ease-in-out hover:scale-95"
 		>
 			<a href="https://github.com/dhruvvbhavsar" target="_blank">
 				<div class="flex h-2/6 flex-row items-center justify-between px-3">
