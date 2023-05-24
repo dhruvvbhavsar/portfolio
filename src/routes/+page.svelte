@@ -243,7 +243,7 @@
 		<!-- svelte-ignore a11y-click-events-have-key-events -->
 		<div
 			class="transition ease-in-out duration-300 group hover:scale-95 proj col-span-6 bg-blue-50 h-64 rounded-2xl p-3 text-base flex flex-col justify-center items-center"
-			on:click={(e) => {
+			on:click={() => {
 				window.location.href = '/Stuff';
 			}}
 		>
@@ -284,3 +284,11 @@
 	</div>
 	</footer>
 </div>
+
+<svelte:head>
+	<title>Dhruv Bhavsar</title>
+	<meta name="og:description" content="Welcome to my 🌏 and Lets Build Amazing things together!">
+	<meta name="og:image" content="http://dhruv.ninja/website.png">
+	<meta property="og:url" content="http://dhruv.ninja/">
+	<meta name="twitter:card" content="http://dhruv.ninja/website.png">
+</svelte:head>
