@@ -250,6 +250,6 @@
 			<p class="text-4xl bg-yellow-300 group-hover:bg-pink-300">Projects</p>
 		</div>
 
-		<p class="text-white col-span-full mx-auto font-mono text-lg mt-6">Website inspiration from the great <a href="https://twitter.com/alistaiir" class="text-purple-900" target="_blank">@alistaiir</a>😎</p>
+		<p class="text-white col-span-full mx-auto font-mono text-sm sm:text-xl font-bold mt-6">Website inspiration from the great <a href="https://twitter.com/alistaiir" class="text-purple-900" target="_blank">@alistaiir</a>😎</p>
 	</div>
 </div>

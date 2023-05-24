@@ -1,3 +1,3 @@
 <div class="flex flex-col justify-center items-center h-screen">
-    <p class="text-4xl font-mono font-extrabold">Page under Construction🏗️</p>
+    <p class="sm:text-4xl text-lg font-mono font-extrabold">Page under Construction🏗️</p>
 </div>

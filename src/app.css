@@ -44,10 +44,6 @@ svg {
     background-image: url('https://imageio.forbes.com/specials-images/imageserve/62a0f58bf97f8613a5ccd11a/0x0.jpg?format=jpg&width=1200');
 }
 
-.bgg {
-    background-image: url('https://t4.ftcdn.net/jpg/01/98/24/71/360_F_198247162_JwrVkhqowZb4NJC24156nV6QYRhsV8Qf.jpg');
-}
-
 .time {
     background-image: url('https://wallpaperaccess.com/full/3764936.jpg');
 }
@@ -62,10 +58,25 @@ ul {
     font-family: 'Rubik Puddles';
 }
 
-.proj:hover {
-    background-image: url('https://cdn.wallpaperhub.app/cloudcache/2/b/b/9/0/6/2bb9062555f5b2bf7e5a5f8d92dfb841ec6919e8.jpg');
-    background-position: center;
-    background-size: 55%;
-    background-repeat: repeat-x;
-    cursor: pointer;
+
+@media (min-width: 960px) {
+    .proj:hover {
+        background-image: url('https://cdn.wallpaperhub.app/cloudcache/2/b/b/9/0/6/2bb9062555f5b2bf7e5a5f8d92dfb841ec6919e8.jpg');
+        background-position: center;
+        background-size: 55%;
+        background-repeat: repeat-x;
+        cursor: pointer;
+    }
+
+    .bgg {
+        background-image: url('https://t4.ftcdn.net/jpg/01/98/24/71/360_F_198247162_JwrVkhqowZb4NJC24156nV6QYRhsV8Qf.jpg');
+    }
+    
+}
+
+@media (max-width: 960px) {
+    .bgg {
+    background-image: url('https://wallpaperaccess.com/full/4666053.png');
+    background-position: top;
+}
 }
