@@ -290,5 +290,5 @@
 	<meta name="og:description" content="Welcome to my 🌏 and Lets Build Amazing things together!">
 	<meta name="og:image" content="http://dhruv.ninja/website.png">
 	<meta property="og:url" content="http://dhruv.ninja/">
-	<meta name="twitter:card" content="http://dhruv.ninja/website.png">
+	<meta name="twitter:image" content="http://dhruv.ninja/website.png">
 </svelte:head>
