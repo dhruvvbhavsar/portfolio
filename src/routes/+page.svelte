@@ -15,9 +15,7 @@
 	referrerpolicy="no-referrer"
 />
 
-<div
-	class="h-full bgg bg-cover"
->
+<div class="h-full bgg bg-cover">
 	<div class="grid max-w-3xl grid-cols-6 gap-6 pt-16 px-2 pb-40 mx-auto">
 		<div
 			class="md:col-span-4 col-span-6 flex h-52 items-center justify-center overflow-hidden rounded-2xl bg-pink-900"
@@ -232,8 +230,8 @@
 			<p class="font-mono text-2xl sm:text-3xl">More than meets the eye</p>
 			<p class="text-sm md:text-base">
 				Hey there, I'm Dhruv! As a Front End Engineer from India, I've been coding since I was a
-				little kid trying to unlock cheat codes on GTA San Andreas and save Princess Peach
-				🍑 in Mario.
+				little kid trying to unlock cheat codes on GTA San Andreas and save Princess Peach 🍑 in
+				Mario.
 			</p>
 			<p class="text-sm md:text-base">
 				When I'm not in front of my computer, you can catch me watching movies 🎞️, jamming to music
@@ -241,5 +239,17 @@
 				waiting for you on the beach!
 			</p>
 		</div>
+
+		<!-- svelte-ignore a11y-click-events-have-key-events -->
+		<div
+			class="transition ease-in-out duration-300 group hover:scale-95 proj col-span-6 bg-blue-50 h-64 rounded-2xl p-3 text-base flex flex-col justify-center items-center"
+			on:click={(e) => {
+				window.location.href = "/Stuff" 
+			}}
+		>
+			<p class="text-4xl bg-yellow-300 group-hover:bg-pink-300">Projects</p>
+		</div>
+
+		<p class="text-white col-span-full mx-auto font-mono text-lg mt-6">Website inspiration from the great <a href="https://twitter.com/alistaiir" class="text-purple-900" target="_blank">@alistaiir</a>😎</p>
 	</div>
 </div>
