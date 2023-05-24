@@ -250,7 +250,7 @@
 			<p class="text-4xl bg-yellow-300 group-hover:bg-pink-300">Projects</p>
 		</div>
 
-		<p class="text-white col-span-full mx-auto font-mono text-sm font-bold mt-6">
+		<p class="text-white col-span-full mx-auto font-mono text-xs sm:text-sm font-semibold mt-6">
 			Website inspiration from the great <a
 				href="https://twitter.com/alistaiir"
 				class="text-purple-900"
@@ -258,18 +258,18 @@
 			>😎
 		</p>
 	</div>
-	<footer class="h-20 flex flex-row justify-between px-3 mt-16 items-center">
+	<footer class="h-20 flex flex-row justify-between px-3 mt-16 items-center text-xs sm:text-base">
 		<div
 			class="rounded-md flex flex-row justify-center items-center bg-orange-600 h-12 w-40 font-serif gap-2 text-gray-50"
 		>
 			<p>Made with</p>
-			<svg width="16" height="16" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
+			<svg width="12" height="12" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
 				><title>Svelte</title><path
 					d="M10.354 21.125a4.44 4.44 0 0 1-4.765-1.767 4.109 4.109 0 0 1-.703-3.107 3.898 3.898 0 0 1 .134-.522l.105-.321.287.21a7.21 7.21 0 0 0 2.186 1.092l.208.063-.02.208a1.253 1.253 0 0 0 .226.83 1.337 1.337 0 0 0 1.435.533 1.231 1.231 0 0 0 .343-.15l5.59-3.562a1.164 1.164 0 0 0 .524-.778 1.242 1.242 0 0 0-.211-.937 1.338 1.338 0 0 0-1.435-.533 1.23 1.23 0 0 0-.343.15l-2.133 1.36a4.078 4.078 0 0 1-1.135.499 4.44 4.44 0 0 1-4.765-1.766 4.108 4.108 0 0 1-.702-3.108 3.855 3.855 0 0 1 1.742-2.582l5.589-3.563a4.072 4.072 0 0 1 1.135-.499 4.44 4.44 0 0 1 4.765 1.767 4.109 4.109 0 0 1 .703 3.107 3.943 3.943 0 0 1-.134.522l-.105.321-.286-.21a7.204 7.204 0 0 0-2.187-1.093l-.208-.063.02-.207a1.255 1.255 0 0 0-.226-.831 1.337 1.337 0 0 0-1.435-.532 1.231 1.231 0 0 0-.343.15L8.62 9.368a1.162 1.162 0 0 0-.524.778 1.24 1.24 0 0 0 .211.937 1.338 1.338 0 0 0 1.435.533 1.235 1.235 0 0 0 .344-.151l2.132-1.36a4.067 4.067 0 0 1 1.135-.498 4.44 4.44 0 0 1 4.765 1.766 4.108 4.108 0 0 1 .702 3.108 3.857 3.857 0 0 1-1.742 2.583l-5.589 3.562a4.072 4.072 0 0 1-1.135.499m10.358-17.95C18.484-.015 14.082-.96 10.9 1.068L5.31 4.63a6.412 6.412 0 0 0-2.896 4.295 6.753 6.753 0 0 0 .666 4.336 6.43 6.43 0 0 0-.96 2.396 6.833 6.833 0 0 0 1.168 5.167c2.229 3.19 6.63 4.135 9.812 2.108l5.59-3.562a6.41 6.41 0 0 0 2.896-4.295 6.756 6.756 0 0 0-.665-4.336 6.429 6.429 0 0 0 .958-2.396 6.831 6.831 0 0 0-1.167-5.168Z"
 				/></svg
 			>
 			<p>x</p>
-			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red" viewBox="0 0 16 16">
+			<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="red" viewBox="0 0 16 16">
 				<path
 					d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"
 				/>
@@ -280,7 +280,7 @@
 		class="rounded-md flex flex-row justify-center items-center bg-black h-12 w-40 font-serif gap-2 text-gray-50"
 	>
 		<p>Deployed on</p>
-		<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vercel</title><path d="M24 22.525H0l12-21.05 12 21.05z"/></svg>
+		<svg role="img" height='12' width='12' viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vercel</title><path d="M24 22.525H0l12-21.05 12 21.05z"/></svg>
 	</div>
 	</footer>
 </div>
