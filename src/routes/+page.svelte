@@ -287,29 +287,3 @@
 	</footer>
 </div>
 
-<svelte:head>
-	<!-- Primary Meta Tags -->
-	<title>Dhruv Bhavsar</title>
-	<meta name="title" content="Dhruv Bhavsar" />
-	<meta name="description" content="Welcome to my 🌏 and Lets Build Amazing things together!" />
-
-	<!-- Open Graph / Facebook -->
-	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://www.dhruv.ninja/" />
-	<meta property="og:title" content="Dhruv Bhavsar" />
-	<meta
-		property="og:description"
-		content="Welcome to my 🌏 and Lets Build Amazing things together!"
-	/>
-	<meta property="og:image" content="http://dhruv.ninja/website.png" />
-
-	<!-- Twitter -->
-	<meta property="twitter:card" content="summary_large_image" />
-	<meta property="twitter:url" content="https://www.dhruv.ninja/" />
-	<meta property="twitter:title" content="Dhruv Bhavsar" />
-	<meta
-		property="twitter:description"
-		content="Welcome to my 🌏 and Lets Build Amazing things together!"
-	/>
-	<meta property="twitter:image" content="http://dhruv.ninja/website.png" />
-</svelte:head>
